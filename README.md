@@ -24,7 +24,7 @@
 * 🎮 **isKommute**
   A Figma-prototyped mobile game that simulates the chaotic yet relatable Manila commute. Players must race against time to reach PUP while dodging traffic, enforcers, and overcrowding — all wrapped in a clean, user-focused UI design.
 
-* 🩺 **MembEase**
+* 🩺 **MembrEase**
   A PhilHealth member management system using PHP, MySQL, and modern UI/UX design. It allows registered users to add, update, and manage records for members, spouses, and dependents. Features include login authentication via PIN and password, clean dashboards, and MySQL integration.
 
 * 🐾 **catHOPia**
