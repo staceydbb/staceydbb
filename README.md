@@ -18,18 +18,7 @@
 
 ---
 
-## 🚀 Projects & Highlights
 
-* 🎮 **isKommute**
-  A Figma-prototyped mobile game that simulates the chaotic yet relatable Manila commute. Players must race against time to reach PUP while dodging traffic, enforcers, and overcrowding — all wrapped in a clean, user-focused UI design.
-
-* 🩺 **MembrEase**
-  A PhilHealth member management system using PHP, MySQL, and modern UI/UX design. It allows registered users to add, update, and manage records for members, spouses, and dependents. Features include login authentication via PIN and password, clean dashboards, and MySQL integration.
-
-* 🐾 **catHOPia**
-  A pixel-style endless jumper game featuring a hopping cat leaping across dreamy platforms. Built using Unity, it features randomized obstacles, star collection mechanics, and cozy, ambient visuals.
-
----
 
 ## 📫 Let's Connect!
 
