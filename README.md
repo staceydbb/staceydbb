@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Stacey Ballares!
 
 🎓 2nd Year BS Information Technology Student at [Polytechnic University of the Philippines](https://www.pup.edu.ph/)
+
 🧠 Always learning, always dreaming!
 
 ---
