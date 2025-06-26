@@ -33,8 +33,8 @@
 
 ## 📫 Let's Connect!
 
-* 🌐 [Portfolio (coming soon!)]()
-* 💌 sdballares.6@gmail.com
+* 🌐 [Portfolio](https://staceydbb.github.io/portfolio/index.html)
+* 💌 [email]sdballares.6@gmail.com
 * 📸 [Instagram](https://instagram.com/staceyballares)
 * 💼 [LinkedIn](https://www.linkedin.com/in/stacey-ballares-902a33329/)
 
