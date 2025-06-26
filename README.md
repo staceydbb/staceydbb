@@ -13,6 +13,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005e87?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge\&logo=html5\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ---
