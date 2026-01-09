@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Stacey Ballares!
 
-🎓 3trd Year BS Information Technology Student at [Polytechnic University of the Philippines](https://www.pup.edu.ph/)
+🎓 3rd Year BS Information Technology Student at [Polytechnic University of the Philippines](https://www.pup.edu.ph/)
 
 🧠 Always learning, always dreaming!
 
