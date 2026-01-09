@@ -26,7 +26,7 @@
 
 * 🌐 **Portfolio:** [staceydbb.github.io/portfolio](https://staceydbb.github.io/portfolio/index.html)
 * 💌 **Email:** [sdballares.6@gmail.com](mailto:sdballares.6@gmail.com)
-* 📸 **Instagram:** [@staceyballares](https://instagram.com/staceyballares)
+* 📸 **Instagram:** [@staceyballares](https://instagram.com/staceeeydbb)
 * 💼 **LinkedIn:** [Stacey Ballares](https://www.linkedin.com/in/stacey-ballares-902a33329/)
 
 
