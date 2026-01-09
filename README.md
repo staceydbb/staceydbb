@@ -4,13 +4,6 @@
 
 🧠 Always learning, always dreaming — passionate about building, problem-solving, and turning ideas into functional systems.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="sparkling universe gif" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" height="2" alt="divider gif" />
-</p>
 
 ## 🔧 Tech Stack & Tools
 
@@ -21,9 +14,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" height="2" alt="divider gif" />
-</p>
 
 ## 💡 What I’m Working On
 
@@ -31,9 +21,6 @@
 * Academic and personal projects focused on **CRUD operations**, databases, and system design
 * Continuously improving my skills in **software development and problem-solving**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" height="2" alt="divider gif" />
-</p>
 
 ## 📫 Let’s Connect!
 
@@ -42,9 +29,6 @@
 * 📸 **Instagram:** [@staceyballares](https://instagram.com/staceyballares)
 * 💼 **LinkedIn:** [Stacey Ballares](https://www.linkedin.com/in/stacey-ballares-902a33329/)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" height="2" alt="divider gif" />
-</p>
 
 ✨ *Growing, learning, and building one project at a time.*
 
