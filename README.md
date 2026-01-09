@@ -1,12 +1,16 @@
-
-
 # 👋 Hello, I'm Stacey Ballares!
 
-🎓 3rd Year BS Information Technology Student at [Polytechnic University of the Philippines](https://www.pup.edu.ph/)
+🎓 **3rd Year BS Information Technology Student** at [Polytechnic University of the Philippines](https://www.pup.edu.ph/)
 
-🧠 Always learning, always dreaming!
+🧠 Always learning, always dreaming — passionate about building, problem-solving, and turning ideas into functional systems.
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="sparkling universe gif" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" height="2" alt="divider gif" />
+</p>
 
 ## 🔧 Tech Stack & Tools
 
@@ -14,21 +18,34 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005e87?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge\&logo=html5\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" height="2" alt="divider gif" />
+</p>
 
----
+## 💡 What I’m Working On
 
+* Web-based systems using **PHP & MySQL**
+* Academic and personal projects focused on **CRUD operations**, databases, and system design
+* Continuously improving my skills in **software development and problem-solving**
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" height="2" alt="divider gif" />
+</p>
 
-## 📫 Let's Connect!
+## 📫 Let’s Connect!
 
-* 🌐 [Portfolio](https://staceydbb.github.io/portfolio/index.html)
-* 💌 sdballares.6@gmail.com
-* 📸 [Instagram](https://instagram.com/staceeeydbb)
-* 💼 [LinkedIn](https://www.linkedin.com/in/stacey-ballares-902a33329/)
+* 🌐 **Portfolio:** [staceydbb.github.io/portfolio](https://staceydbb.github.io/portfolio/index.html)
+* 💌 **Email:** [sdballares.6@gmail.com](mailto:sdballares.6@gmail.com)
+* 📸 **Instagram:** [@staceyballares](https://instagram.com/staceyballares)
+* 💼 **LinkedIn:** [Stacey Ballares](https://www.linkedin.com/in/stacey-ballares-902a33329/)
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" height="2" alt="divider gif" />
+</p>
+
+✨ *Growing, learning, and building one project at a time.*
 
 
